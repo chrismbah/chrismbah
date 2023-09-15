@@ -1,11 +1,13 @@
 # Hi there 👋
+
 <div>
 <h3>I'm Chris Mbah 👨‍💻</h3> 
-<p>A Front-end Software Engineer passionate about learning ,developing, contributing and solving problems </p>
+<p>A Front-end Software Engineer passionate about learning, developing, contributing, and solving problems.</p>
 </div>
-<li>🤝 Open to collaborations</li>
-<li>👨‍💻 Love building projects</li>
-<li>📩 Feel free to contact me at [myemail@example.com](mailto:myemail@gmail.com)</li>
+
+- 🤝 Open to collaborations
+- 👨‍💻 Love building projects
+- 📩 Feel free to contact me at [mbahchris46@gmail.com](mailto:mbahchris46@gmail.com)
 
 ### My Tech Stack
 <p align="left">
