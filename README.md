@@ -1,9 +1,8 @@
 # Hi there 👋
 
-<div>
-<h3>I'm Chris Mbah 👨‍💻</h3> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=6000&pause=4000&multiline=true&repeat=true&width=435&lines=I'm+Chris+Mbah)](https://git.io/typing-svg) <br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=15&duration=4000&pause=4000&multiline=false&repeat=true&width=435&lines=A+Front-End+Software+Engineer;%22Eat%2C+Code,+Sleep,+Repeat+%F0%9F%8C%B1%F0%9F%92%BB%22)](https://git.io/typing-svg)
 <p>A Front-end Software Engineer passionate about learning, developing, contributing, and solving problems.</p>
-</div>
 
 - 👨‍💻 Love building web applications using cutting-edge technologies.
 
