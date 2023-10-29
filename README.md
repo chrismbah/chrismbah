@@ -10,7 +10,7 @@
 - 🚀 Committed to delivering high-quality and performant software solutions.
 - 🌟 Passionate about contributing to open-source projects and giving back to the developer community.
 - 🤝 Open to collaborations on exciting projects
-- 📩 Feel free to contact me at [mbahchris46@gmail.com](mailto:mbahchris46@gmail.com)
+- 📩 Feel free to contact me at [mbahchris46@gmail.com](mailto:chrismbah4622@gmail.com)
 
 ### 🛠️ Skills and Tools
 <p align="left">
