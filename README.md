@@ -35,5 +35,5 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=chrismbah&show_icons=true&theme=radical">
 <img alignb="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrismbah&layout=compact">
-<a href="http://www.github.com/chrismbah"><img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=chrismbah&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/chrismbah"><img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=chrismbah&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
