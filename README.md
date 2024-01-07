@@ -1,9 +1,11 @@
 # Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=23&duration=6000&pause=4000&multiline=true&repeat=true&width=435&lines=I'm+Chris+Mbah)](https://git.io/typing-svg) <br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=4000&pause=4000&multiline=false&repeat=true&width=435&lines=A+Front-End+Software+Engineer;%22Eat%2C+Code,+Sleep,+Repeat+%F0%9F%8C%B1%F0%9F%92%BB%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=4000&pause=4000&multiline=false&repeat=true&width=435&lines=A+Passionate+Software+Engineer;%22Eat%2C+Code,+Sleep,+Repeat+%F0%9F%8C%B1%F0%9F%92%BB%22)](https://git.io/typing-svg)
 
 [![wakatime](https://wakatime.com/badge/user/45b40e4e-b8e9-4598-b4c5-6ac2dcd5c8d5.svg)](https://wakatime.com/@45b40e4e-b8e9-4598-b4c5-6ac2dcd5c8d5)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chrismbah&label=Profile%20views&color=0e75b6&style=flat" alt="chrismbah" /> </p>
 
 <p>A Front-end Software Engineer passionate about learning, developing, contributing, and solving problems.</p>
 
@@ -23,6 +25,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="36" height="36"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 
 ### 🌐 Socials
