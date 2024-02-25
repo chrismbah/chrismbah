@@ -12,10 +12,9 @@
 - 👨‍💻 Love building web applications using cutting-edge technologies.
 
 - 🛠️ Enjoy solving complex coding challenges and continuously improving my coding skills.
-- 🚀 Committed to delivering high-quality and performant software solutions.
 - 🌟 Passionate about contributing to open-source projects and giving back to the developer community.
-- 🤝 Open to collaborations on exciting projects
-- 📩 Feel free to contact me at [chrismbah4622@gmail.com](mailto:chrismbah4622@gmail.com)
+- 🤝 Open to collaborations
+- 📩 Contact me at [chrismbah4622@gmail.com](mailto:chrismbah4622@gmail.com)
 
 ### 🛠️ Skills and Tools
 <p align="left">
