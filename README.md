@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrismbah&label=Profile%20views&color=0e75b6&style=flat" alt="chrismbah" /> </p>
 
-<p>A Front-end Software Engineer passionate about learning, developing, contributing, and solving problems.</p>
+<p>A Software Engineer passionate about learning, developing, contributing, and solving problems.</p>
 
 - 👨‍💻 Love building web applications using cutting-edge technologies.
 
