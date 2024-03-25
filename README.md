@@ -35,7 +35,7 @@
 
 ### 📊 Github Stats
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=chrismbah&show_icons=true&theme=radical">
-<img alignb="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrismbah&layout=compact">
-<a href="http://www.github.com/chrismbah"><img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=chrismbah&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrismbah&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true" alt="Chris's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrismbah&theme=transparent&langs_count=8&layout=compact&hide_border=true" alt="Chris's GitHub stats" /> |
+| ------------- | ------------- |
+
 
