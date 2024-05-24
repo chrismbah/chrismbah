@@ -10,10 +10,7 @@
 <p>A Software Engineer passionate about learning, developing, contributing, and solving problems.</p>
 
 - 👨‍💻 Love building web applications using cutting-edge technologies.
-
-- 🛠️ Enjoy solving complex coding challenges and continuously improving my coding skills.
 - 🌟 Passionate about contributing to open-source projects and giving back to the developer community.
-- 🤝 Open to collaborations
 - 📩 Contact me at [mbahchris46@gmail.com](mailto:mbahchris46@gmail.com)
 
 ### 🛠️ Skills and Tools
